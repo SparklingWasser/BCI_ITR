@@ -1,6 +1,6 @@
 # BCI_ITR
 
-This function computes information transfer rate (ITR) <br/>
+This function computes information transfer rate (ITR) in brain-computer interface (BCI) <br/>
  <br/>
 Inputs: <br/>
   N : Number of class<br/>
